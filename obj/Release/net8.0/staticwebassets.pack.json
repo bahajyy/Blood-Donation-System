@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/bahajyy/BloodDonorSystem/wwwroot/addBlood.html",
+      "PackagePath": "staticwebassets/addBlood.html"
+    },
+    {
+      "Id": "/Users/bahajyy/BloodDonorSystem/wwwroot/addBlood.js",
+      "PackagePath": "staticwebassets/addBlood.js"
+    },
+    {
+      "Id": "/Users/bahajyy/BloodDonorSystem/wwwroot/createDonor.html",
+      "PackagePath": "staticwebassets/createDonor.html"
+    },
+    {
+      "Id": "/Users/bahajyy/BloodDonorSystem/wwwroot/createDonor.js",
+      "PackagePath": "staticwebassets/createDonor.js"
+    },
+    {
+      "Id": "/Users/bahajyy/BloodDonorSystem/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/bahajyy/BloodDonorSystem/wwwroot/requestBlood.html",
+      "PackagePath": "staticwebassets/requestBlood.html"
+    },
+    {
+      "Id": "/Users/bahajyy/BloodDonorSystem/wwwroot/requestBlood.js",
+      "PackagePath": "staticwebassets/requestBlood.js"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.BloodDonorSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.build.BloodDonorSystem.props",
+      "PackagePath": "build\\BloodDonorSystem.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.buildMultiTargeting.BloodDonorSystem.props",
+      "PackagePath": "buildMultiTargeting\\BloodDonorSystem.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.buildTransitive.BloodDonorSystem.props",
+      "PackagePath": "buildTransitive\\BloodDonorSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
